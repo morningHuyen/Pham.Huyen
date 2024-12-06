@@ -1,0 +1,1 @@
+{"class":"org.apache.spark.ml.recommendation.ALSModel","timestamp":1733402807157,"sparkVersion":"3.5.1","uid":"ALS_e97e3936a375","paramMap":{"itemCol":"ma_san_pham_idx","blockSize":4096,"userCol":"ma_khach_hang_idx","coldStartStrategy":"drop"},"defaultParamMap":{"itemCol":"item","blockSize":4096,"userCol":"user","predictionCol":"prediction","coldStartStrategy":"nan"},"rank":25}
